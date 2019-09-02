@@ -11,13 +11,13 @@
         <input class="input-text" type="text" name="ListItem" />
         <div id="button">Add</div>
       </div>
-      <br/>
+      <br />
       <ol>
         <li id class="checked">
           <input name="done-todo" checked type="checkbox" class="done-todo" />
           <span>a</span>
         </li>
-        <li id="" class>
+        <li id class>
           <input name="done-todo" type="checkbox" class="done-todo" />
           <span>a</span>
         </li>
